@@ -1,0 +1,158 @@
+
+p {
+    color: rgb(255, 255, 255);
+    text-align: center;
+    border: solid 10px rgb(43, 43, 43);
+    font-size: 100px;
+    background-color: rgb(155, 82, 82) ;
+    padding-top: 100px;
+  padding-right: 30px;
+  padding-bottom: 100px;
+  padding-left: 30px;
+  
+}
+
+
+
+h5 {
+    margin-left: 500px;
+    font-size:50px;
+    margin-top:500px;
+    margin-bottom: 50px;
+    color: aliceblue;
+}
+
+
+h2 {
+    font-size: 50px;
+    text-align: center;
+    margin-top: 1500px;
+}
+
+
+
+.div1 {
+margin-left: 120px;
+margin-top: 50px;
+}
+
+.div2 {
+ margin-left: 500px;
+ margin-top: -240px;
+}
+
+.div3 {
+    margin-left: 880px;
+    margin-top: -240px;
+}
+
+.div4 {
+    margin-left: 120px;
+    margin-top: 100px;
+}
+
+.div5 {
+    margin-left: 500px;
+    margin-top: -240px;
+}
+
+.div6 {
+    margin-left: 880px;
+    margin-top: -240px;
+}
+
+.div7 {
+    margin-left: 120px;
+    margin-top: 100px;
+}
+
+.div8 {
+    margin-left: 500px;
+    margin-top: -240px;
+}
+
+.div9 {
+    margin-left: 880px;
+    margin-top: -240px;
+}
+
+.div10 {
+    margin-left: 120px;
+    margin-top: 100px;
+    
+}
+
+.div11 {
+    margin-left: 500px;
+    margin-top: -240px;
+}
+
+.div12 {
+    margin-left: 880px;
+    margin-top: -240px;
+}
+
+.div13 {
+    margin-left: 120px;
+    margin-top: 100px;
+}
+
+.div14 {
+    margin-left: 500px;
+    margin-top: -240px;
+}
+
+.div15 {
+    margin-left: 880px;
+    margin-top: -240px;
+}
+
+.div16 {
+    margin-left: 120px;
+    margin-top: 100px;
+
+}
+
+.div17 {
+    margin-left: 500px;
+    margin-top: -240px;
+}
+
+.div18 {
+    margin-left: 880px;
+    margin-top: -240px;
+}
+
+.div19 {
+margin-top: 50px;
+margin-left: 120px;
+
+
+}
+
+.div20{
+    margin-left: 500px;
+}
+
+.div21{
+    margin-left: 715px;
+    margin-top: -250px;
+    margin-bottom: -50px; ;
+}
+
+.div22{
+    margin-left: 120px;
+    margin-top: 50px;
+
+}
+
+.div23 {
+    margin-left: 350px;
+    margin-top: 50px;
+}
+
+body{
+    background-image: url("58064.jpg");
+  background-repeat: repeat;
+}
+
